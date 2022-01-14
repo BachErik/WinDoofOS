@@ -21,7 +21,7 @@ local repositoryURL = "https://raw.githubusercontent.com/BachErik/WinDoofOS/mast
 local installerURL = "Installer/"
 local EFIURL = "EFI/Minified.lua"
 
-local installerPath = "/MineOS installer/"
+local installerPath = "/WinDoofOS installer/"
 local installerPicturesPath = installerPath .. "Installer/Pictures/"
 local OSPath = "/"
 
