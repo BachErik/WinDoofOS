@@ -307,7 +307,7 @@ local screensaversSwitchAndLabel = newSwitchAndLabel(30, 0xFFB600, "", true)
 local applicationsSwitchAndLabel = newSwitchAndLabel(30, 0x33DB80, "", true)
 local localizationsSwitchAndLabel = newSwitchAndLabel(30, 0x33B6FF, "", true)
 
-local acceptSwitchAndLabel = newSwitchAndLabel(25, 0x9949FF, "", false)
+local acceptSwitchAndLabel = newSwitchAndLabel(25, 0x9949FF, "Ja ja schon gut ich Akzeptieren es:", false)
 
 local localizationComboBox = GUI.comboBox(1, 1, 22, 1, 0xF0F0F0, 0x969696, 0xD2D2D2, 0xB4B4B4)
 for i = 1, #files.localizations do
