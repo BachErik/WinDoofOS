@@ -9,7 +9,7 @@
 	screensavers = "Bildschirmschoner:",
 	applications = "Apps von Drittanbietern:",
 	languages = "Sprachpakete:",
-	accept = "Ja ja schon gut Akzeptieren es:",
+	accept = "Ja ja schon gut ich Akzeptieren es:                                                     ",
 	select = "Dateisystem für die installation auswählen",
 	erase = "Löschen",
 	used = "verwendet",
