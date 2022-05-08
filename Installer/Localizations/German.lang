@@ -1,4 +1,3 @@
-{
 	username = "Benutzernamen",
 	password = "Passwort",
 	submitPassword = "Passwort Absenden",
@@ -20,4 +19,3 @@
 	installing = "Installieren",
 	installed = "MineOS wurde installiert",
 	reboot = "Neustart",
-}
